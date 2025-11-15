@@ -1,0 +1,15 @@
+{
+  "name": "m3u8-sniffer-render",
+  "version": "1.0.0",
+  "description": "Service to capture m3u8 links using Playwright.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.40.0"
+  }
+}
+
+
