@@ -1,4 +1,4 @@
-# LÍNEA CORREGIDA:
+# Usar la imagen oficial de Playwright con Node.js y los navegadores instalados.
 FROM mcr.microsoft.com/playwright/node:latest
 
 # Establecer el directorio de trabajo
